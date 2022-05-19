@@ -4,7 +4,7 @@
 - 👀 Eu estou aprendendo a progamar
 - 🌱 Java
 - 💞️ Com a escola
-- 📫 s
+- 📫 so
 
 <!---
 Phellco/Phellco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
